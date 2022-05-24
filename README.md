@@ -15,7 +15,10 @@ To practice building backend code using Sequelize to interact with a MySQL datab
 ## Usage
 https://youtu.be/xy2bJspFLUs 
 
-or 
+https://user-images.githubusercontent.com/97413286/170087329-0b41a35f-def5-4859-a3c5-9ea2e0a9b9c2.mp4
+
+
+
 
 Create a MySQL database on your local machine using the schema.sql file located in the /db/ directory(From the MySQL CLI, source db/schema.sql)
 
