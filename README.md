@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/97413286/170087329-0b41a35f-def5-4859-
 
 
 Create a MySQL database on your local machine using the schema.sql file located in the /db/ directory(From the MySQL CLI, source db/schema.sql)
-
+enter your username and password for your MySQL in the .env.example file 
 Seed the database with sample data to be used for testing purposes(Run npm run seed from inside the root directory of the project)
 
 ## Credits
